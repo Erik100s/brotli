@@ -1,3 +1,3 @@
-module github.com/google/brotli/go/brotli
+module github.com/Erik100s/brotli
 
 go 1.21
